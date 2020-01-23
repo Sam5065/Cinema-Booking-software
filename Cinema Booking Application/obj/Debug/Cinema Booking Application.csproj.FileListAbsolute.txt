@@ -1,0 +1,8 @@
+\\li-studenthd-01\student home drives$\active\30055148\my documents\visual studio 2015\Projects\Cinema Booking Application\Cinema Booking Application\bin\Debug\Cinema Booking Application.exe.config
+\\li-studenthd-01\student home drives$\active\30055148\my documents\visual studio 2015\Projects\Cinema Booking Application\Cinema Booking Application\obj\Debug\Cinema_Booking_Application.Form1.resources
+\\li-studenthd-01\student home drives$\active\30055148\my documents\visual studio 2015\Projects\Cinema Booking Application\Cinema Booking Application\obj\Debug\Cinema_Booking_Application.Properties.Resources.resources
+\\li-studenthd-01\student home drives$\active\30055148\my documents\visual studio 2015\Projects\Cinema Booking Application\Cinema Booking Application\obj\Debug\Cinema Booking Application.csproj.GenerateResource.Cache
+\\li-studenthd-01\student home drives$\active\30055148\my documents\visual studio 2015\Projects\Cinema Booking Application\Cinema Booking Application\bin\Debug\Cinema Booking Application.exe
+\\li-studenthd-01\student home drives$\active\30055148\my documents\visual studio 2015\Projects\Cinema Booking Application\Cinema Booking Application\bin\Debug\Cinema Booking Application.pdb
+\\li-studenthd-01\student home drives$\active\30055148\my documents\visual studio 2015\Projects\Cinema Booking Application\Cinema Booking Application\obj\Debug\Cinema Booking Application.exe
+\\li-studenthd-01\student home drives$\active\30055148\my documents\visual studio 2015\Projects\Cinema Booking Application\Cinema Booking Application\obj\Debug\Cinema Booking Application.pdb
