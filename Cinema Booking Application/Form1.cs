@@ -74,14 +74,14 @@ namespace Cinema_Booking_Application
         {
             if (First_Name.Text == "" | Last_Name.Text == "" | Genre.Text == "" | FilmBox.Text == "" | SR.Text == "" | Rows.Text == "" | Seats.Text == "")
             {
-                MessageBox.Show("Please complete all sections", "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Please complete all sections", "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error); /// Error Box
             }
             else
             {
                 using (System.IO.StreamWriter file =
-                new System.IO.StreamWriter(@"H:\app\booking.txt", true))
+                new System.IO.StreamWriter(@"H:\app\booking.txt", true)) /// Change this location to somewhere on your own computer or it wont work. 
                 {
-                    file.WriteLine("First Name\r\n " + First_Name.Text + "\r\n\r\nLastName\r\n" + Last_Name.Text + "\r\n\r\nFilm\r\n" + FilmBox.Text + "\r\n\r\nSpecial Requirements\r\n" + SR.Text + "\r\n\r\nRows\r\n" + Rows.Text + "\r\n\r\nSeats\r\n" + Seats.Text + "\r\n\r\n_____________________\r\n\r\n");
+                    file.WriteLine("First Name\r\n " + First_Name.Text + "\r\n\r\nLastName\r\n" + Last_Name.Text + "\r\n\r\nFilm\r\n" + FilmBox.Text + "\r\n\r\nSpecial Requirements\r\n" + SR.Text + "\r\n\r\nRows\r\n" + Rows.Text + "\r\n\r\nSeats\r\n" + Seats.Text + "\r\n\r\n_____________________\r\n\r\n"); /// This is how the message is formatted in the output file 
 
                 }
                 First_Name.Clear();
