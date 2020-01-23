@@ -1,4 +1,4 @@
-﻿///SR = Special Requirements
+///SR = Special Requirements
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -74,7 +74,7 @@ namespace Cinema_Booking_Application
         {
             if (First_Name.Text == "" | Last_Name.Text == "" | Genre.Text == "" | FilmBox.Text == "" | SR.Text == "" | Rows.Text == "" | Seats.Text == "")
             {
-                MessageBox.Show("Please complete all sections", "Error Message");
+                MessageBox.Show("Please complete all sections", "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else
             {
